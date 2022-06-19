@@ -36,9 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emma-dougherty&layout=compact&title_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/emma-dougherty/github-readme-stats)
 
-[![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=emma-dougherty&show_icons=true&title_color=ff3399&icon_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25")]
-(https://github.com/emma-dougherty/github-readme-stats)
-
+[![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=emma-dougherty&show_icons=true&title_color=ff3399&icon_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25")
 
 
 
