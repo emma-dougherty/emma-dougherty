@@ -1,5 +1,5 @@
 - 👀 I’m interested in web dev & UX/UI
-- 🌱 I’m currently learning about everything
+- 🌱 I’m currently learning Java
 
 ---
 
