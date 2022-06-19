@@ -1,16 +1,6 @@
 - 👀 I’m interested in web dev & UX/UI
 - 🌱 I’m currently learning about everything
 
-
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/helloemmadougherty/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/helloemmadougherty/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/stopmogo#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/stopmogo#gh-dark-mode-only)
-
 ---
 
 ### Languages and Tools:
