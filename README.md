@@ -16,7 +16,7 @@
 
 ### My Animation Company
 
-🎨🎥🎬 **[StopMoGo](https://www.stopmogo.com/) | Everything designed and built by me
+🎨🎥🎬 **[StopMoGo](https://www.stopmogo.com/) | Website created by me
 
 ### Connect with me:
 
