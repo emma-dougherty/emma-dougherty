@@ -1,6 +1,6 @@
 <div align = "center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=40&duration=4000&color=1488FF&width=600&height=60&lines=Hello!+I'm+Emma.;Welcome+to+my+Github!;+++;++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=40&duration=4000&color=ff3399&width=600&height=60&lines=Hello!+I'm+Emma.;Welcome+to+my+Github!;+++;++++)](https://git.io/typing-svg)
 
 ---
 
@@ -44,9 +44,9 @@ Languages and Tools:
 <p align = "center">
 <br>
 
-  <img alt="Emma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emma-dougherty&show_icons=true&hide_border=false&title_color=1488FFFF&icon_color=1488FFFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25" height="160px" />
+  <img alt="Emma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emma-dougherty&show_icons=true&hide_border=false&title_color=ff3399&icon_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25" height="160px" />
  
- <img alt="Emma's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma-dougherty&layout=compact&title_color=1488FFFF&bg_color=09131B&text_color=1488FFFF&border_color=0c1a25" height="160px"/>
+ <img alt="Emma's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma-dougherty&layout=compact&title_color=ff3399&bg_color=09131B&text_color=ff3399&border_color=0c1a25" height="160px"/>
 <br>
 
 </p>
