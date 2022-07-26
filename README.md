@@ -6,7 +6,7 @@
 
 ### 
 
-  ### My projects
+  ### My Projects
   
   🎉 Recently graduated from the 16 week professional software development course at CodeClan (a digital skills academy in Edinburgh). Here are two of the many projects I worked on:
   
@@ -14,7 +14,7 @@
 
 🦆🦚🦩 **[Fantastic Birds](https://github.com/emma-dougherty/fantastic-birds) | GROUP project:** An educational app with interactive features. Built with React JS, NodeJS/Express
 
-### My animation business
+### My Animation Company
 
 🎨🎥🎬 **[StopMoGo](https://www.stopmogo.com/) | Everything designed and built by me
 
