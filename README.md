@@ -41,6 +41,8 @@
 
 ![Cocktails-by-CodeClam](https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif)
 
+![codocatoramen](https://user-images.githubusercontent.com/101479360/181015821-dc3a9d0c-9365-49e2-a107-7f21cc7431b1.jpg)
+
 <!---
 emma-dougherty/emma-dougherty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
