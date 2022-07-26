@@ -14,8 +14,12 @@
 
 🦆🦚🦩 **[Fantastic Birds](https://github.com/emma-dougherty/fantastic-birds) | GROUP project:** An educational app with interactive features. Built with React JS, NodeJS/Express
 
-#### Connect with me:
-  
+### My animation business
+
+🎨🎥🎬 **[StopMoGo](https://www.stopmogo.com/) | Everything designed and built by me
+
+### Connect with me:
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/helloemmadougherty">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
