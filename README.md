@@ -5,8 +5,13 @@
 
 
 ### 
+
+
   
-  ### My projects at CodeClan
+  ### My projects
+  
+  🎉 Recently graduated from the 16 week professional software development course at CodeClan (a digital skills academy based in Scotland). Here are two of the many projects I worked on:
+  
 - 😸 **[Codo Cato](https://github.com/emma-dougherty/codocato_front-end) | FINAL project:** Join the coding dojo and learn the basics with Mrs. Meowgi in this full-stack educational game for younger children. Built with Java/Spring, React Js and PostgreSQL.
 
 - 🦆🦚🦩 **[Fantastic Birds](https://github.com/emma-dougherty/fantastic-birds) | GROUP project:** An educational app with interactive features. Built with React/Js
