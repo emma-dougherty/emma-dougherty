@@ -1,14 +1,27 @@
 <div align = "center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=40&duration=4000&color=ff3399&width=600&height=60&lines=Hello!+I'm+Emma.;Welcome+to+my+Github!;+++;++++)](https://git.io/typing-svg)
+</div>
 
----
 
 ### 
+  
+  ### My projects
+- 😸 **[Codo Cato](https://github.com/emma-dougherty/codocato_front-end) | FINAL project:** Join the coding dojo and learn the basics with Mrs. Meowgi in this full-stack educational game for younger children. Built with Java/Spring, React Js and PostgreSQL.
 
+- 🦆🦚🦩 **[Fantastic Birds](https://github.com/emma-dougherty/fantastic-birds) | GROUP project:** An educational app with interactive features. Built with React/Js
 
+#### Connect with me:
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/helloemmadougherty">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-Languages and Tools:  
+###
+
+### Languages and Tools:  
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
