@@ -1,9 +1,14 @@
-- 👀 I’m interested in web dev & UX/UI
-- 🌱 I’m currently learning Java
+<div align = "center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=40&duration=4000&color=1488FF&height=60&lines=Hello!+I'm+Emma.;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 ---
 
-### Languages and Tools:  
+### 
+
+
+
+Languages and Tools:  
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
@@ -33,15 +38,25 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-#
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emma-dougherty&layout=compact&title_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/emma-dougherty/github-readme-stats)
 
-[![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=emma-dougherty&show_icons=true&title_color=ff3399&icon_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25")](https://github.com/emma-dougherty/github-readme-stats)
+<p align = "center">
+<br>
 
-![Cocktails-by-CodeClam](https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif)
+  <img alt="Emma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emma-dougherty&show_icons=true&hide_border=false&title_color=ff3399&icon_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25" height="200px" />
+ 
+ <img alt="Emma's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma-dougherty&layout=compact&title_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25" height="200px"/>
+<br>
 
-![codocatoramen](https://user-images.githubusercontent.com/101479360/181015821-dc3a9d0c-9365-49e2-a107-7f21cc7431b1.jpg)
+</p>
+<br>
+
+ <div align = "center">
+ <img alt="Cocktails By CodeClam" src="https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif" />
+ <img alt="Codo Cato" src="https://user-images.githubusercontent.com/101479360/181015821-dc3a9d0c-9365-49e2-a107-7f21cc7431b1.jpg"
+
+
 
 <!---
 emma-dougherty/emma-dougherty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
