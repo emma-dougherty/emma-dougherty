@@ -12,7 +12,7 @@
   
 😸🥋👘   **[Codo Cato](https://github.com/emma-dougherty/codocato_front-end) | FINAL project:** Join the coding dojo and learn the basics with Mrs. Meowgi in this full-stack educational game for younger children. Built with Java/Spring, React JS and PostgreSQL
 
-🦆🦚🦩 **[Fantastic Birds](https://github.com/emma-dougherty/fantastic-birds) | GROUP project:** An educational app with interactive features. Built with React JS
+🦆🦚🦩 **[Fantastic Birds](https://github.com/emma-dougherty/fantastic-birds) | GROUP project:** An educational app with interactive features. Built with React JS, NodeJS/Express
 
 #### Connect with me:
   
