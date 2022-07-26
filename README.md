@@ -39,8 +39,7 @@
 
 [![Emma's GitHub stats](https://github-readme-stats.vercel.app/api?username=emma-dougherty&show_icons=true&title_color=ff3399&icon_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25")](https://github.com/emma-dougherty/github-readme-stats)
 
-
-
+![Cocktails-by-CodeClam](https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif)
 
 <!---
 emma-dougherty/emma-dougherty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
