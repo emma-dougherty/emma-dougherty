@@ -1,6 +1,6 @@
 <div align = "center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=40&duration=4000&color=1488FF&width=600&height=60&lines=Hello!+I'm+Emma.;Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=40&duration=4000&color=1488FF&width=600&height=60&lines=Hello!+I'm+Emma.;Welcome+to+my+Github!;+++;++++)](https://git.io/typing-svg)
 
 ---
 
