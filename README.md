@@ -67,7 +67,7 @@
 
  <div align = "center">
  <img alt="Cocktails By CodeClam" src="https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif" />
- <img alt="Codo Cato" src="https://user-images.githubusercontent.com/101479360/181015821-dc3a9d0c-9365-49e2-a107-7f21cc7431b1.jpg"
+ <a href="https://github.com/emma-dougherty/codocato_front-end"><img alt="Codo Cato" src="https://user-images.githubusercontent.com/101479360/181015821-dc3a9d0c-9365-49e2-a107-7f21cc7431b1.jpg"</a>
 
 
 
