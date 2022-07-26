@@ -1,13 +1,11 @@
 <div align = "center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=30&color=FF3399&width=800&lines=Hello+%F0%9F%91%8B++I'm+Emma.+Welcome+to+my+github!;I'm+a+creative+developer+with+a+background+in;animation+and+teaching.;++++++++++++++++++++(%CD%A0%E2%89%96+%CD%9C%CA%96%CD%A0%E2%89%96)%F0%9F%91%8C++;Stay+a+while+and+have+a+look+around+(+%CD%A1%F0%9F%91%81%EF%B8%8F%E2%80%AF%CD%9C%CA%96+%CD%A1%F0%9F%91%81%EF%B8%8F);++++;++++++++++++++++++++++++%CA%95%E2%80%A2%CC%81%E1%B4%A5%E2%80%A2%CC%80%CA%94%E3%81%A3+++++;+++;++++++++++++++++++++++++++(%C9%94%E2%97%94%E2%80%BF%E2%97%94)%C9%94+%E2%99%A5;+++;++++++++++++++++++++++++++(%E2%94%80%E2%80%BF%E2%80%BF%E2%94%80);+++++++++;++++++++(%E3%81%A3%EF%BC%BE%E2%96%BF%EF%BC%BE)%DB%B6%F0%9F%8D%B8%F0%9F%8C%9F%F0%9F%8D%BA%D9%A9(%CB%98%E2%97%A1%CB%98+))](https://git.io/typing-svg)
-</div>
 
+</div>
 
 ### 
 
-
-  
   ### My projects
   
   🎉 Recently graduated from the 16 week professional software development course at CodeClan (a digital skills academy in Edinburgh). Here are two of the many projects I worked on:
@@ -27,6 +25,7 @@
 ###
 
 ### Languages and Tools:  
+<div align = "center">
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
@@ -60,10 +59,8 @@
 
 </div>
 
-
 <p align = "center">
 <br>
-
   <img alt="Emma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emma-dougherty&show_icons=true&hide_border=false&title_color=ff3399&icon_color=ff3399&bg_color=09131B&text_color=ffffff&border_color=0c1a25" height="180px" />
  
  <img alt="Emma's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma-dougherty&layout=compact&title_color=ff3399&bg_color=09131B&text_color=ff3399&border_color=0c1a25" height="180px"/>
@@ -78,11 +75,4 @@
   </a>
   <a href="https://github.com/emma-dougherty/fantastic-birds"> <img alt="Robin jump" src="https://user-images.githubusercontent.com/101479360/181045044-fccf5ee6-4754-467f-ab71-1398f281caba.gif"
   </a>
-
-
-
-<!---
-emma-dougherty/emma-dougherty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+</div>
