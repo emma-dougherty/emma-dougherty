@@ -79,4 +79,6 @@
   </a>
   <a href="https://github.com/emma-dougherty/fantastic-birds"> <img alt="Robin jump" src="https://user-images.githubusercontent.com/101479360/181045044-fccf5ee6-4754-467f-ab71-1398f281caba.gif"
   </a>
+  <img alt="Rock, Paper, Scissors" src="https://user-images.githubusercontent.com/101479360/181257811-4b905a0c-0d5c-4977-bb65-6a17713a2422.jpg" />
+
 </div>
