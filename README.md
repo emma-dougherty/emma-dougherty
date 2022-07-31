@@ -16,7 +16,7 @@
 
 ### My Animation Company
 
-🎨🎥🎬 **[StopMoGo](https://www.stopmogo.com/) | Website created by me
+🎨🎥🎬 **[StopMoGo](https://www.stopmogo.com/) |  I created the website, plus all animation & illustrations. Check out the portfolio page for more of my work.
 
 ### Connect with me:
 
