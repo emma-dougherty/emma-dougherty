@@ -14,7 +14,7 @@
   
   🎉 Recently graduated from the 16 week professional software development course at CodeClan (a digital skills academy in Edinburgh). Here are two of the many projects I worked on:
   
-😸🥋👘   **[Codo Cato](https://github.com/emma-dougherty/codocato_front-end) | FINAL project:** Join the coding dojo and learn the basics with Mrs. Meowgi in this full-stack educational game for younger children. Built with Java/Spring, React JS and PostgreSQL
+😸🥋👘   **[Codo Cato](https://github.com/emma-dougherty/codocato_front-end) | FINAL project:** Join the coding dojo and learn the basics with Mrs. Meowgi in this full-stack educational game for younger children. Built with Java/Spring, React JS and PostgreSQ
 
 🦆🦚🦩 **[Fantastic Birds](https://github.com/emma-dougherty/fantastic-birds) | GROUP project:** An educational app with interactive features. Built with React JS, NodeJS/Express
 
@@ -77,12 +77,23 @@
 </p>
 <br>
 
- <div align = "center">
-  <img alt="Cocktails By CodeClam" src="https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif" />
-  <a href="https://github.com/emma-dougherty/codocato_front-end"><img alt="Codo Cato" src="https://user-images.githubusercontent.com/101479360/181015821-dc3a9d0c-9365-49e2-a107-7f21cc7431b1.jpg" 
+<div align = "center">
+  <a href="https://github.com/emma-dougherty/codocato_front-end"> 
+  
+  ![titles](https://user-images.githubusercontent.com/101479360/188743809-c9382072-fc1f-4253-8324-36ab52859408.jpg)
+
+  ![banana-ramen](https://user-images.githubusercontent.com/101479360/188741093-65cf11e8-d675-4093-97a5-31b2220fffed.jpg)
+  
+![codocato-meowgi](https://user-images.githubusercontent.com/101479360/188741423-e886f2d3-5353-486c-8b43-04b3ac686a29.jpg)
+
+![avatars](https://user-images.githubusercontent.com/101479360/188741486-473d7b75-696d-452b-b757-e036dd40ec67.jpg)
   </a>
+  
+  ![bird_background-01](https://user-images.githubusercontent.com/101479360/188723602-efd625d7-0d15-4a88-8154-b39d27bec80c.jpg)
   <a href="https://github.com/emma-dougherty/fantastic-birds"> <img alt="Robin jump" src="https://user-images.githubusercontent.com/101479360/181045044-fccf5ee6-4754-467f-ab71-1398f281caba.gif">
-  </a>
+ </a>
+
+  <img alt="Cocktails By CodeClam" src="https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif" />
   <img alt="Rock, Paper, Scissors" src="https://user-images.githubusercontent.com/101479360/181257811-4b905a0c-0d5c-4977-bb65-6a17713a2422.jpg" />
 
 </div>
