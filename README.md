@@ -86,14 +86,16 @@
   
 ![codocato-meowgi](https://user-images.githubusercontent.com/101479360/188741423-e886f2d3-5353-486c-8b43-04b3ac686a29.jpg)
 
-![avatars](https://user-images.githubusercontent.com/101479360/188741486-473d7b75-696d-452b-b757-e036dd40ec67.jpg)
+![avatars](https://user-images.githubusercontent.com/101479360/188747245-0138bc6a-2792-4393-b4db-43573fd01a0a.jpg)
   </a>
   
   ![bird_background-01](https://user-images.githubusercontent.com/101479360/188723602-efd625d7-0d15-4a88-8154-b39d27bec80c.jpg)
+  
   <a href="https://github.com/emma-dougherty/fantastic-birds"> <img alt="Robin jump" src="https://user-images.githubusercontent.com/101479360/181045044-fccf5ee6-4754-467f-ab71-1398f281caba.gif">
  </a>
 
   <img alt="Cocktails By CodeClam" src="https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif" />
+
   <img alt="Rock, Paper, Scissors" src="https://user-images.githubusercontent.com/101479360/181257811-4b905a0c-0d5c-4977-bb65-6a17713a2422.jpg" />
 
 </div>
