@@ -89,10 +89,15 @@
 ![avatars](https://user-images.githubusercontent.com/101479360/188747245-0138bc6a-2792-4393-b4db-43573fd01a0a.jpg)
   </a>
   
+  <a href="https://github.com/emma-dougherty/fantastic-birds">
+  
+  ![fantastic-bird-home](https://user-images.githubusercontent.com/101479360/188845038-7f66bb15-e900-4daa-af7b-eef40b786fc3.jpg)
+  
   ![bird_background-01](https://user-images.githubusercontent.com/101479360/188723602-efd625d7-0d15-4a88-8154-b39d27bec80c.jpg)
   
-  <a href="https://github.com/emma-dougherty/fantastic-birds"> <img alt="Robin jump" src="https://user-images.githubusercontent.com/101479360/181045044-fccf5ee6-4754-467f-ab71-1398f281caba.gif">
+  <img alt="Robin jump" src="https://user-images.githubusercontent.com/101479360/181045044-fccf5ee6-4754-467f-ab71-1398f281caba.gif">
  </a>
+
 
   <img alt="Cocktails By CodeClam" src="https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif" />
 
