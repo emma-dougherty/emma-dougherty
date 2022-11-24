@@ -79,14 +79,25 @@
 
 <div align = "center">
   <a href="https://github.com/emma-dougherty/codocato_front-end"> 
+    <img alt="Codocato titles" src="https://user-images.githubusercontent.com/101479360/203856695-a0596d69-d7de-4631-803a-56eeb208a9c2.gif">
+ </a> 
+<br/>
   
+  <a href="https://github.com/emma-dougherty/codocato_front-end"> 
+    <img alt="Codocato avatars" src="https://user-images.githubusercontent.com/101479360/188747245-0138bc6a-2792-4393-b4db-43573fd01a0a.jpg" width="800">
+ </a> 
+<br/>  
+  
+ <a href="https://github.com/emma-dougherty/codocato_front-end"> 
+    <img alt="Codocato end" src="https://user-images.githubusercontent.com/101479360/203856783-b9704457-cbce-450d-ab27-ea09e13890c8.gif">
+ </a> 
+ 
   ![titles](https://user-images.githubusercontent.com/101479360/188743809-c9382072-fc1f-4253-8324-36ab52859408.jpg)
 
   ![banana-ramen](https://user-images.githubusercontent.com/101479360/188741093-65cf11e8-d675-4093-97a5-31b2220fffed.jpg)
   
 ![codocato-meowgi](https://user-images.githubusercontent.com/101479360/188741423-e886f2d3-5353-486c-8b43-04b3ac686a29.jpg)
 
-![avatars](https://user-images.githubusercontent.com/101479360/188747245-0138bc6a-2792-4393-b4db-43573fd01a0a.jpg)
   </a>
   
   <a href="https://github.com/emma-dougherty/fantastic-birds">
