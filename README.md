@@ -78,6 +78,7 @@
 <br>
 
 <div align = "center">
+  
   <a href="https://github.com/emma-dougherty/codocato_front-end"> 
     <img alt="Codocato titles" src="https://user-images.githubusercontent.com/101479360/203856695-a0596d69-d7de-4631-803a-56eeb208a9c2.gif">
  </a> 
@@ -108,10 +109,7 @@
   
   <img alt="Robin jump" src="https://user-images.githubusercontent.com/101479360/181045044-fccf5ee6-4754-467f-ab71-1398f281caba.gif">
  </a>
-
-
-  <img alt="Cocktails By CodeClam" src="https://user-images.githubusercontent.com/101479360/181007981-b10c051b-5f5d-4072-9a71-44a68c205c95.gif" />
-
-  <img alt="Rock, Paper, Scissors" src="https://user-images.githubusercontent.com/101479360/181257811-4b905a0c-0d5c-4977-bb65-6a17713a2422.jpg" />
+     <img alt="Cocktails By CodeClam" src="https://user-images.githubusercontent.com/101479360/203860634-c2ec60a1-84e2-4d8a-b742-a14c316c2659.gif" width="800"></a>
+  <img alt="Rock, Paper, Scissors" src="https://user-images.githubusercontent.com/101479360/181257811-4b905a0c-0d5c-4977-bb65-6a17713a2422.jpg" width="800"/>
 
 </div>
